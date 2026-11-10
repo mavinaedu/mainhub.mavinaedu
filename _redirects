@@ -1,0 +1,26 @@
+# Cloudflare SPA & Funnel Routing Rules - MAVINA EDU
+/gift /index.html 200
+/nhan-ebook /index.html 200
+/flashcards /index.html 200
+/quiz /index.html 200
+/infographic /index.html 200
+/ebook /index.html 200
+/videos /index.html 200
+/print /index.html 200
+/pricing /index.html 200
+/upsell /index.html 200
+/affiliate /index.html 200
+/ctv /index.html 200
+/dau-truong /index.html 200
+/arena /index.html 200
+/lightarena /index.html 200
+/khoa-hoc /index.html 200
+/courses /index.html 200
+/sieu-thi /index.html 200
+/ecosystem /index.html 200
+/ai /index.html 200
+/ai-creator /index.html 200
+/sandbox /index.html 200
+/thu-vien /index.html 200
+/library /index.html 200
+/indexmainhub /index.html 200
